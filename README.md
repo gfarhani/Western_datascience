@@ -3,8 +3,6 @@
 # Data Science Without Tears
 
 
-<img align="right" src="shampoobottle.png" width=225px>
-
 The new year brings new opportunities for learning and professional development.
  
 Western is offering a six-week bootcamp for faculty members called “Data Science Without Tears” - part of ongoing efforts to help build data acumen across campus.
